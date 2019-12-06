@@ -1,3 +1,5 @@
+require_relative '../lib/plant.rb'
+
 class Garden
   attr_accessor :name
 
